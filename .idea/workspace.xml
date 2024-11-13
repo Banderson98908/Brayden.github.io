@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="796d6d53-718a-4787-9747-af2718797c8d" name="Changes" comment="Commiting index.html">
-      <change beforePath="$PROJECT_DIR$/Pages/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Pages/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pages/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +58,12 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/Pages" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -74,7 +80,7 @@
       <option name="presentableId" value="Default" />
       <updated>1731460487816</updated>
       <workItem from="1731460488960" duration="1153000" />
-      <workItem from="1731462089329" duration="1702000" />
+      <workItem from="1731462089329" duration="2076000" />
     </task>
     <task id="LOCAL-00001" summary="Commiting index.html">
       <option name="closed" value="true" />
@@ -84,7 +90,23 @@
       <option name="project" value="LOCAL" />
       <updated>1731517008592</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Commiting index.html">
+      <option name="closed" value="true" />
+      <created>1731517525918</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1731517525918</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Commiting index.html">
+      <option name="closed" value="true" />
+      <created>1731517532060</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1731517532060</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
